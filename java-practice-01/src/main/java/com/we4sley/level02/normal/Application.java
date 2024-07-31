@@ -1,7 +1,5 @@
 package com.we4sley.level02.normal;
 
-import com.we4sley.level01.basic.Calculator;
-
 public class Application {
     public static void main(String[] args) {
 
